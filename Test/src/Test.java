@@ -5,7 +5,7 @@ public class Test {
 		Scanner sc = new Scanner(System.in);
 		// int i=5;
 
-		System.out.println("Gib Gr��e");
+		System.out.println("Gib Groesse");
 		double gr = sc.nextInt();
 		System.out.println("Gib Gewicht");
 		int gew = sc.nextInt();
@@ -15,7 +15,7 @@ public class Test {
 		System.out.println("Ihr BMI ist:" + x);
 
 		if (x > 25)
-			System.out.println("Sie sind uebergwewichtig!\n 8===D");
+			System.out.println("Sie sind uebergwewichtig!");
 
 	}
 
