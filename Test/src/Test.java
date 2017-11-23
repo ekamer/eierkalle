@@ -15,7 +15,7 @@ public class Test {
 		System.out.println("Ihr BMI ist:" + x);
 
 		if (x > 25)
-			System.out.println("Sie sind uebergwewichtig!");
+			System.out.println("Sie sind uebergwewichtig!\n 8===D");
 
 	}
 
